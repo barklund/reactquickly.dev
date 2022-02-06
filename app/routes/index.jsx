@@ -169,7 +169,7 @@ export default function Index() {
                   <a href="//linkedin.com/in/barklund" className="hover:underline text-gray-600 hover:text-orange-500">Linkedin</a>
                 </li>
                 <li className="mt-2">
-                  <a href="//mortenbarklund.com/" className="hover:underline text-gray-600 hover:text-orange-500">Website</a>
+                  <a href="//mortenbarklund.com/" className="hover:underline text-gray-600 hover:text-orange-500" title="Website of Morten Barklund about React, Testing and Accessibility">Website</a>
                 </li>
               </ul>
             </div>
