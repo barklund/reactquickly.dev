@@ -157,6 +157,10 @@ export default function Index() {
                 <li className="mt-2">
                   <a className="hover:underline text-gray-600 hover:text-orange-500" href="https://www.flaticon.com/free-icons/project" rel="nofollow" >Eucalyp - Flaticon</a>
                 </li>
+                <li className="mt-2">
+                  <a className="hover:underline text-gray-600 hover:text-orange-500" href="https://iconscout.com/icon/book-1168" rel="nofollow" >Daniel Bruce - Iconscout</a>
+                </li>
+
               </ul>
             </div>
             <div className="flex-grow text-center md:text-left">
