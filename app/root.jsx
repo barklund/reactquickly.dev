@@ -7,8 +7,14 @@ import {
   ScrollRestoration
 } from "remix";
 
+import styles from "./styles/app.css"
+
+export function links() {
+  return [{ rel: "stylesheet", href: styles }]
+}
+
 export function meta() {
-  return { title: "New Remix App" };
+  return { title: "React Quickly, Second Edition out now for purchase" };
 }
 
 export default function App() {
