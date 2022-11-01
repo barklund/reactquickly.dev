@@ -1,5 +1,4 @@
 import { useParams } from "@remix-run/react";
-import { a, b } from "public/build/_shared/chunk-AKSB5QXU";
 import { useEffect, useState } from "react";
 import repositories from "~/config/repositories.json";
 

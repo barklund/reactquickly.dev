@@ -7,7 +7,6 @@ export function links() {
     {
       rel: "stylesheet",
       href: "//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/default.min.css",
-      href: "//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/a11y-dark.min.css",
     },
   ];
 }
