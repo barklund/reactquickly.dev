@@ -1,0 +1,566 @@
+{
+  "ch01": {
+    "hello-world": {
+      "build": "/builds/ch01/hello-world/",
+      "content": "/zips/ch01/hello-world.zip"
+    }
+  },
+  "ch02": {
+    "rq02-custom-links": {
+      "build": "/builds/ch02/rq02-custom-links/",
+      "content": "/zips/ch02/rq02-custom-links.zip"
+    },
+    "rq02-link-props": {
+      "build": "/builds/ch02/rq02-link-props/",
+      "content": "/zips/ch02/rq02-link-props.zip"
+    },
+    "rq02-links-app": {
+      "build": "/builds/ch02/rq02-links-app/",
+      "content": "/zips/ch02/rq02-links-app.zip"
+    },
+    "rq02-links-app-alt": {
+      "build": "/builds/ch02/rq02-links-app-alt/",
+      "content": "/zips/ch02/rq02-links-app-alt.zip"
+    },
+    "rq02-links-children": {
+      "build": "/builds/ch02/rq02-links-children/",
+      "content": "/zips/ch02/rq02-links-children.zip"
+    },
+    "rq02-nesting": {
+      "build": "/builds/ch02/rq02-nesting/",
+      "content": "/zips/ch02/rq02-nesting.zip"
+    },
+    "rq02-nesting-italic": {
+      "build": "/builds/ch02/rq02-nesting-italic/",
+      "content": "/zips/ch02/rq02-nesting-italic.zip"
+    },
+    "rq02-siblings-div": {
+      "build": "/builds/ch02/rq02-siblings-div/",
+      "content": "/zips/ch02/rq02-siblings-div.zip"
+    },
+    "rq02-siblings-fragment": {
+      "build": "/builds/ch02/rq02-siblings-fragment/",
+      "content": "/zips/ch02/rq02-siblings-fragment.zip"
+    }
+  },
+  "ch03": {
+    "rq03-alert": {
+      "build": "/builds/ch03/rq03-alert/",
+      "content": "/zips/ch03/rq03-alert.zip"
+    },
+    "rq03-bad-whitespace": {
+      "build": "/builds/ch03/rq03-bad-whitespace/",
+      "content": "/zips/ch03/rq03-bad-whitespace.zip"
+    },
+    "rq03-cart-multi": {
+      "build": "/builds/ch03/rq03-cart-multi/",
+      "content": "/zips/ch03/rq03-cart-multi.zip"
+    },
+    "rq03-cart-single": {
+      "build": "/builds/ch03/rq03-cart-single/",
+      "content": "/zips/ch03/rq03-cart-single.zip"
+    },
+    "rq03-children": {
+      "build": "/builds/ch03/rq03-children/",
+      "content": "/zips/ch03/rq03-children.zip"
+    },
+    "rq03-correct-select": {
+      "build": "/builds/ch03/rq03-correct-select/",
+      "content": "/zips/ch03/rq03-correct-select.zip"
+    },
+    "rq03-dog-breeds": {
+      "build": "/builds/ch03/rq03-dog-breeds/",
+      "content": "/zips/ch03/rq03-dog-breeds.zip"
+    },
+    "rq03-good-whitespace": {
+      "build": "/builds/ch03/rq03-good-whitespace/",
+      "content": "/zips/ch03/rq03-good-whitespace.zip"
+    },
+    "rq03-jsx-links": {
+      "build": "/builds/ch03/rq03-jsx-links/",
+      "content": "/zips/ch03/rq03-jsx-links.zip"
+    },
+    "rq03-naive-select": {
+      "build": "/builds/ch03/rq03-naive-select/",
+      "content": "/zips/ch03/rq03-naive-select.zip"
+    }
+  },
+  "ch04": {
+    "rq04-gallery-class-v1": {
+      "build": "/builds/ch04/rq04-gallery-class-v1/",
+      "content": "/zips/ch04/rq04-gallery-class-v1.zip"
+    },
+    "rq04-gallery-class-v2": {
+      "build": "/builds/ch04/rq04-gallery-class-v2/",
+      "content": "/zips/ch04/rq04-gallery-class-v2.zip"
+    },
+    "rq04-gallery-class-v3": {
+      "build": "/builds/ch04/rq04-gallery-class-v3/",
+      "content": "/zips/ch04/rq04-gallery-class-v3.zip"
+    },
+    "rq04-gallery-class-v4": {
+      "build": "/builds/ch04/rq04-gallery-class-v4/",
+      "content": "/zips/ch04/rq04-gallery-class-v4.zip"
+    },
+    "rq04-gallery-function-v1": {
+      "build": "/builds/ch04/rq04-gallery-function-v1/",
+      "content": "/zips/ch04/rq04-gallery-function-v1.zip"
+    },
+    "rq04-gallery-function-v2": {
+      "build": "/builds/ch04/rq04-gallery-function-v2/",
+      "content": "/zips/ch04/rq04-gallery-function-v2.zip"
+    },
+    "rq04-gallery-function-v3": {
+      "build": "/builds/ch04/rq04-gallery-function-v3/",
+      "content": "/zips/ch04/rq04-gallery-function-v3.zip"
+    },
+    "rq04-gallery-function-v4": {
+      "build": "/builds/ch04/rq04-gallery-function-v4/",
+      "content": "/zips/ch04/rq04-gallery-function-v4.zip"
+    },
+    "rq04-menu-class": {
+      "build": "/builds/ch04/rq04-menu-class/",
+      "content": "/zips/ch04/rq04-menu-class.zip"
+    },
+    "rq04-menu-default": {
+      "build": "/builds/ch04/rq04-menu-default/",
+      "content": "/zips/ch04/rq04-menu-default.zip"
+    },
+    "rq04-menu-destruct": {
+      "build": "/builds/ch04/rq04-menu-destruct/",
+      "content": "/zips/ch04/rq04-menu-destruct.zip"
+    },
+    "rq04-menu-function": {
+      "build": "/builds/ch04/rq04-menu-function/",
+      "content": "/zips/ch04/rq04-menu-function.zip"
+    },
+    "rq04-menu-rest": {
+      "build": "/builds/ch04/rq04-menu-rest/",
+      "content": "/zips/ch04/rq04-menu-rest.zip"
+    }
+  },
+  "ch05": {
+    "rq05-accordion": {
+      "build": "/builds/ch05/rq05-accordion/",
+      "content": "/zips/ch05/rq05-accordion.zip"
+    },
+    "rq05-bad-todo": {
+      "build": "/builds/ch05/rq05-bad-todo/",
+      "content": "/zips/ch05/rq05-bad-todo.zip"
+    },
+    "rq05-calculator": {
+      "build": "/builds/ch05/rq05-calculator/",
+      "content": "/zips/ch05/rq05-calculator.zip"
+    },
+    "rq05-filter-todo": {
+      "build": "/builds/ch05/rq05-filter-todo/",
+      "content": "/zips/ch05/rq05-filter-todo.zip"
+    },
+    "rq05-functional-counter": {
+      "build": "/builds/ch05/rq05-functional-counter/",
+      "content": "/zips/ch05/rq05-functional-counter.zip"
+    },
+    "rq05-nice-todo": {
+      "build": "/builds/ch05/rq05-nice-todo/",
+      "content": "/zips/ch05/rq05-nice-todo.zip"
+    },
+    "rq05-proper-todo": {
+      "build": "/builds/ch05/rq05-proper-todo/",
+      "content": "/zips/ch05/rq05-proper-todo.zip"
+    },
+    "rq05-reset-counter": {
+      "build": "/builds/ch05/rq05-reset-counter/",
+      "content": "/zips/ch05/rq05-reset-counter.zip"
+    },
+    "rq05-triple-counter": {
+      "build": "/builds/ch05/rq05-triple-counter/",
+      "content": "/zips/ch05/rq05-triple-counter.zip"
+    }
+  },
+  "ch06": {
+    "rq06-blog-title": {
+      "build": "/builds/ch06/rq06-blog-title/",
+      "content": "/zips/ch06/rq06-blog-title.zip"
+    },
+    "rq06-countdown": {
+      "build": "/builds/ch06/rq06-countdown/",
+      "content": "/zips/ch06/rq06-countdown.zip"
+    },
+    "rq06-dice-roller": {
+      "build": "/builds/ch06/rq06-dice-roller/",
+      "content": "/zips/ch06/rq06-dice-roller.zip"
+    },
+    "rq06-email-input": {
+      "build": "/builds/ch06/rq06-email-input/",
+      "content": "/zips/ch06/rq06-email-input.zip"
+    },
+    "rq06-push-button": {
+      "build": "/builds/ch06/rq06-push-button/",
+      "content": "/zips/ch06/rq06-push-button.zip"
+    },
+    "rq06-push-button2": {
+      "build": "/builds/ch06/rq06-push-button2/",
+      "content": "/zips/ch06/rq06-push-button2.zip"
+    },
+    "rq06-remote-dropdown": {
+      "build": "/builds/ch06/rq06-remote-dropdown/",
+      "content": "/zips/ch06/rq06-remote-dropdown.zip"
+    },
+    "rq06-stopwatch": {
+      "build": "/builds/ch06/rq06-stopwatch/",
+      "content": "/zips/ch06/rq06-stopwatch.zip"
+    }
+  },
+  "ch07": {
+    "rq07-double-counter": {
+      "build": "/builds/ch07/rq07-double-counter/",
+      "content": "/zips/ch07/rq07-double-counter.zip"
+    },
+    "rq07-employee-list": {
+      "build": "/builds/ch07/rq07-employee-list/",
+      "content": "/zips/ch07/rq07-employee-list.zip"
+    },
+    "rq07-todo-delete": {
+      "build": "/builds/ch07/rq07-todo-delete/",
+      "content": "/zips/ch07/rq07-todo-delete.zip"
+    },
+    "rq07-todo-fixed": {
+      "build": "/builds/ch07/rq07-todo-fixed/",
+      "content": "/zips/ch07/rq07-todo-fixed.zip"
+    },
+    "rq07-todo-memo": {
+      "build": "/builds/ch07/rq07-todo-memo/",
+      "content": "/zips/ch07/rq07-todo-memo.zip"
+    },
+    "rq07-todo-naive": {
+      "build": "/builds/ch07/rq07-todo-naive/",
+      "content": "/zips/ch07/rq07-todo-naive.zip"
+    },
+    "rq07-todo-usememo": {
+      "build": "/builds/ch07/rq07-todo-usememo/",
+      "content": "/zips/ch07/rq07-todo-usememo.zip"
+    }
+  },
+  "ch08": {
+    "rq08-admin": {
+      "build": "/builds/ch08/rq08-admin/",
+      "content": "/zips/ch08/rq08-admin.zip"
+    },
+    "rq08-contact": {
+      "build": "/builds/ch08/rq08-contact/",
+      "content": "/zips/ch08/rq08-contact.zip"
+    },
+    "rq08-menu": {
+      "build": "/builds/ch08/rq08-menu/",
+      "content": "/zips/ch08/rq08-menu.zip"
+    },
+    "rq08-mouse-status": {
+      "build": "/builds/ch08/rq08-mouse-status/",
+      "content": "/zips/ch08/rq08-mouse-status.zip"
+    },
+    "rq08-naive-menu": {
+      "build": "/builds/ch08/rq08-naive-menu/",
+      "content": "/zips/ch08/rq08-naive-menu.zip"
+    },
+    "rq08-persistence": {
+      "build": "/builds/ch08/rq08-persistence/",
+      "content": "/zips/ch08/rq08-persistence.zip"
+    },
+    "rq08-styled-counter": {
+      "build": "/builds/ch08/rq08-styled-counter/",
+      "content": "/zips/ch08/rq08-styled-counter.zip"
+    },
+    "rq08-styled-memo-counter": {
+      "build": "/builds/ch08/rq08-styled-memo-counter/",
+      "content": "/zips/ch08/rq08-styled-memo-counter.zip"
+    },
+    "rq08-transition": {
+      "build": "/builds/ch08/rq08-transition/",
+      "content": "/zips/ch08/rq08-transition.zip"
+    },
+    "rq08-video-player": {
+      "build": "/builds/ch08/rq08-video-player/",
+      "content": "/zips/ch08/rq08-video-player.zip"
+    },
+    "rq08-window-size": {
+      "build": "/builds/ch08/rq08-window-size/",
+      "content": "/zips/ch08/rq08-window-size.zip"
+    }
+  },
+  "ch09": {
+    "rq09-address": {
+      "build": "/builds/ch09/rq09-address/",
+      "content": "/zips/ch09/rq09-address.zip"
+    },
+    "rq09-color": {
+      "build": "/builds/ch09/rq09-color/",
+      "content": "/zips/ch09/rq09-color.zip"
+    },
+    "rq09-controlled-sum": {
+      "build": "/builds/ch09/rq09-controlled-sum/",
+      "content": "/zips/ch09/rq09-controlled-sum.zip"
+    },
+    "rq09-input-grid": {
+      "build": "/builds/ch09/rq09-input-grid/",
+      "content": "/zips/ch09/rq09-input-grid.zip"
+    },
+    "rq09-natural-sum": {
+      "build": "/builds/ch09/rq09-natural-sum/",
+      "content": "/zips/ch09/rq09-natural-sum.zip"
+    },
+    "rq09-smart-address": {
+      "build": "/builds/ch09/rq09-smart-address/",
+      "content": "/zips/ch09/rq09-smart-address.zip"
+    },
+    "rq09-ticket-no": {
+      "build": "/builds/ch09/rq09-ticket-no/",
+      "content": "/zips/ch09/rq09-ticket-no.zip"
+    },
+    "rq09-todo": {
+      "build": "/builds/ch09/rq09-todo/",
+      "content": "/zips/ch09/rq09-todo.zip"
+    }
+  },
+  "ch10": {
+    "rq10-border-context": {
+      "build": "/builds/ch10/rq10-border-context/",
+      "content": "/zips/ch10/rq10-border-context.zip"
+    },
+    "rq10-counter-reducer": {
+      "build": "/builds/ch10/rq10-counter-reducer/",
+      "content": "/zips/ch10/rq10-counter-reducer.zip"
+    },
+    "rq10-dark-mode": {
+      "build": "/builds/ch10/rq10-dark-mode/",
+      "content": "/zips/ch10/rq10-dark-mode.zip"
+    },
+    "rq10-dark-mode-selector": {
+      "build": "/builds/ch10/rq10-dark-mode-selector/",
+      "content": "/zips/ch10/rq10-dark-mode-selector.zip"
+    },
+    "rq10-dashboard-admin": {
+      "build": "/builds/ch10/rq10-dashboard-admin/",
+      "content": "/zips/ch10/rq10-dashboard-admin.zip"
+    },
+    "rq10-dashboard-context": {
+      "build": "/builds/ch10/rq10-dashboard-context/",
+      "content": "/zips/ch10/rq10-dashboard-context.zip"
+    },
+    "rq10-dashboard-memo": {
+      "build": "/builds/ch10/rq10-dashboard-memo/",
+      "content": "/zips/ch10/rq10-dashboard-memo.zip"
+    },
+    "rq10-dashboard-props": {
+      "build": "/builds/ch10/rq10-dashboard-props/",
+      "content": "/zips/ch10/rq10-dashboard-props.zip"
+    },
+    "rq10-reducer-load": {
+      "build": "/builds/ch10/rq10-reducer-load/",
+      "content": "/zips/ch10/rq10-reducer-load.zip"
+    },
+    "rq10-reduction-load": {
+      "build": "/builds/ch10/rq10-reduction-load/",
+      "content": "/zips/ch10/rq10-reduction-load.zip"
+    }
+  },
+  "ch11": {
+    "rq11-context": {
+      "build": "/builds/ch11/rq11-context/",
+      "content": "/zips/ch11/rq11-context.zip"
+    },
+    "rq11-dynamic": {
+      "build": "/builds/ch11/rq11-dynamic/",
+      "content": "/zips/ch11/rq11-dynamic.zip"
+    },
+    "rq11-minimal": {
+      "build": "/builds/ch11/rq11-minimal/",
+      "content": "/zips/ch11/rq11-minimal.zip"
+    },
+    "rq11-profile": {
+      "build": "/builds/ch11/rq11-profile/",
+      "content": "/zips/ch11/rq11-profile.zip"
+    },
+    "rq11-scaffold": {
+      "build": "/builds/ch11/rq11-scaffold/",
+      "content": "/zips/ch11/rq11-scaffold.zip"
+    },
+    "rq11-static": {
+      "build": "/builds/ch11/rq11-static/",
+      "content": "/zips/ch11/rq11-static.zip"
+    }
+  },
+  "ch12": {
+    "rq12-initialize": {
+      "build": "/builds/ch12/rq12-initialize/",
+      "content": "/zips/ch12/rq12-initialize.zip"
+    },
+    "rq12-multiple": {
+      "build": "/builds/ch12/rq12-multiple/",
+      "content": "/zips/ch12/rq12-multiple.zip"
+    },
+    "rq12-playpause": {
+      "build": "/builds/ch12/rq12-playpause/",
+      "content": "/zips/ch12/rq12-playpause.zip"
+    },
+    "rq12-reset": {
+      "build": "/builds/ch12/rq12-reset/",
+      "content": "/zips/ch12/rq12-reset.zip"
+    },
+    "rq12-scaffold": {
+      "build": "/builds/ch12/rq12-scaffold/",
+      "content": "/zips/ch12/rq12-scaffold.zip"
+    }
+  },
+  "ch13": {
+    "rq13-dragging": {
+      "build": "/builds/ch13/rq13-dragging/",
+      "content": "/zips/ch13/rq13-dragging.zip"
+    },
+    "rq13-list": {
+      "build": "/builds/ch13/rq13-list/",
+      "content": "/zips/ch13/rq13-list.zip"
+    },
+    "rq13-priority": {
+      "build": "/builds/ch13/rq13-priority/",
+      "content": "/zips/ch13/rq13-priority.zip"
+    },
+    "rq13-scaffold": {
+      "build": "/builds/ch13/rq13-scaffold/",
+      "content": "/zips/ch13/rq13-scaffold.zip"
+    },
+    "rq13-steps": {
+      "build": "/builds/ch13/rq13-steps/",
+      "content": "/zips/ch13/rq13-steps.zip"
+    }
+  },
+  "ch14": {
+    "rq14-employee": {
+      "build": "/builds/ch14/rq14-employee/",
+      "content": "/zips/ch14/rq14-employee.zip"
+    },
+    "rq14-paginable": {
+      "build": "/builds/ch14/rq14-paginable/",
+      "content": "/zips/ch14/rq14-paginable.zip"
+    },
+    "rq14-prettier": {
+      "build": "/builds/ch14/rq14-prettier/",
+      "content": "/zips/ch14/rq14-prettier.zip"
+    }
+  },
+  "ch15": {
+    "rq15-classnames": {
+      "build": "/builds/ch15/rq15-classnames/",
+      "content": "/zips/ch15/rq15-classnames.zip"
+    },
+    "rq15-cssmodules": {
+      "build": "/builds/ch15/rq15-cssmodules/",
+      "content": "/zips/ch15/rq15-cssmodules.zip"
+    },
+    "rq15-inline": {
+      "build": "/builds/ch15/rq15-inline/",
+      "content": "/zips/ch15/rq15-inline.zip"
+    },
+    "rq15-styled": {
+      "build": "/builds/ch15/rq15-styled/",
+      "content": "/zips/ch15/rq15-styled.zip"
+    },
+    "rq15-tailwind": {
+      "build": "/builds/ch15/rq15-tailwind/",
+      "content": "/zips/ch15/rq15-tailwind.zip"
+    }
+  },
+  "ch16": {
+    "rq16-context": {
+      "build": "/builds/ch16/rq16-context/",
+      "content": "/zips/ch16/rq16-context.zip"
+    },
+    "rq16-reducer": {
+      "build": "/builds/ch16/rq16-reducer/",
+      "content": "/zips/ch16/rq16-reducer.zip"
+    },
+    "rq16-redux": {
+      "build": "/builds/ch16/rq16-redux/",
+      "content": "/zips/ch16/rq16-redux.zip"
+    },
+    "rq16-xstate": {
+      "build": "/builds/ch16/rq16-xstate/",
+      "content": "/zips/ch16/rq16-xstate.zip"
+    },
+    "rq16-zustand": {
+      "build": "/builds/ch16/rq16-zustand/",
+      "content": "/zips/ch16/rq16-zustand.zip"
+    }
+  },
+  "ch17": {
+    "rq17-better-reactive": {
+      "build": "/builds/ch17/rq17-better-reactive/",
+      "content": "/zips/ch17/rq17-better-reactive.zip"
+    },
+    "rq17-graphql": {
+      "build": "/builds/ch17/rq17-graphql/",
+      "content": "/zips/ch17/rq17-graphql.zip"
+    },
+    "rq17-reactive": {
+      "build": "/builds/ch17/rq17-reactive/",
+      "content": "/zips/ch17/rq17-reactive.zip"
+    },
+    "rq17-things": {
+      "build": "/builds/ch17/rq17-things/",
+      "content": "/zips/ch17/rq17-things.zip"
+    }
+  },
+  "ch18": {
+    "rq18-axios": {
+      "build": "/builds/ch18/rq18-axios/",
+      "content": "/zips/ch18/rq18-axios.zip"
+    },
+    "rq18-click-counter": {
+      "build": "/builds/ch18/rq18-click-counter/",
+      "content": "/zips/ch18/rq18-click-counter.zip"
+    },
+    "rq18-dark-mode": {
+      "build": "/builds/ch18/rq18-dark-mode/",
+      "content": "/zips/ch18/rq18-dark-mode.zip"
+    },
+    "rq18-geo": {
+      "build": "/builds/ch18/rq18-geo/",
+      "content": "/zips/ch18/rq18-geo.zip"
+    },
+    "rq18-keypress": {
+      "build": "/builds/ch18/rq18-keypress/",
+      "content": "/zips/ch18/rq18-keypress.zip"
+    },
+    "rq18-menuitem": {
+      "build": "/builds/ch18/rq18-menuitem/",
+      "content": "/zips/ch18/rq18-menuitem.zip"
+    },
+    "rq18-menuitem-icon": {
+      "build": "/builds/ch18/rq18-menuitem-icon/",
+      "content": "/zips/ch18/rq18-menuitem-icon.zip"
+    },
+    "rq18-timer": {
+      "build": "/builds/ch18/rq18-timer/",
+      "content": "/zips/ch18/rq18-timer.zip"
+    },
+    "rq18-todo": {
+      "build": "/builds/ch18/rq18-todo/",
+      "content": "/zips/ch18/rq18-todo.zip"
+    }
+  },
+  "ch21": {
+    "rq21-base": {
+      "build": "/builds/ch21/rq21-base/",
+      "content": "/zips/ch21/rq21-base.zip"
+    },
+    "rq21-complete": {
+      "build": "/builds/ch21/rq21-complete/",
+      "content": "/zips/ch21/rq21-complete.zip"
+    }
+  },
+  "ch22": {
+    "rq22-wordle": {
+      "build": "/builds/ch22/rq22-wordle/",
+      "content": "/zips/ch22/rq22-wordle.zip"
+    }
+  }
+}
