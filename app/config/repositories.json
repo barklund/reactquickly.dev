@@ -215,30 +215,6 @@
     "rq07-double-counter": {
       "build": "/builds/ch07/rq07-double-counter/",
       "content": "/zips/ch07/rq07-double-counter.zip"
-    },
-    "rq07-employee-list": {
-      "build": "/builds/ch07/rq07-employee-list/",
-      "content": "/zips/ch07/rq07-employee-list.zip"
-    },
-    "rq07-todo-delete": {
-      "build": "/builds/ch07/rq07-todo-delete/",
-      "content": "/zips/ch07/rq07-todo-delete.zip"
-    },
-    "rq07-todo-fixed": {
-      "build": "/builds/ch07/rq07-todo-fixed/",
-      "content": "/zips/ch07/rq07-todo-fixed.zip"
-    },
-    "rq07-todo-memo": {
-      "build": "/builds/ch07/rq07-todo-memo/",
-      "content": "/zips/ch07/rq07-todo-memo.zip"
-    },
-    "rq07-todo-naive": {
-      "build": "/builds/ch07/rq07-todo-naive/",
-      "content": "/zips/ch07/rq07-todo-naive.zip"
-    },
-    "rq07-todo-usememo": {
-      "build": "/builds/ch07/rq07-todo-usememo/",
-      "content": "/zips/ch07/rq07-todo-usememo.zip"
     }
   },
   "ch08": {
@@ -269,10 +245,6 @@
     "rq08-styled-counter": {
       "build": "/builds/ch08/rq08-styled-counter/",
       "content": "/zips/ch08/rq08-styled-counter.zip"
-    },
-    "rq08-styled-memo-counter": {
-      "build": "/builds/ch08/rq08-styled-memo-counter/",
-      "content": "/zips/ch08/rq08-styled-memo-counter.zip"
     },
     "rq08-transition": {
       "build": "/builds/ch08/rq08-transition/",
@@ -330,14 +302,6 @@
       "build": "/builds/ch10/rq10-counter-reducer/",
       "content": "/zips/ch10/rq10-counter-reducer.zip"
     },
-    "rq10-dark-mode": {
-      "build": "/builds/ch10/rq10-dark-mode/",
-      "content": "/zips/ch10/rq10-dark-mode.zip"
-    },
-    "rq10-dark-mode-selector": {
-      "build": "/builds/ch10/rq10-dark-mode-selector/",
-      "content": "/zips/ch10/rq10-dark-mode-selector.zip"
-    },
     "rq10-dashboard-admin": {
       "build": "/builds/ch10/rq10-dashboard-admin/",
       "content": "/zips/ch10/rq10-dashboard-admin.zip"
@@ -346,10 +310,6 @@
       "build": "/builds/ch10/rq10-dashboard-context/",
       "content": "/zips/ch10/rq10-dashboard-context.zip"
     },
-    "rq10-dashboard-memo": {
-      "build": "/builds/ch10/rq10-dashboard-memo/",
-      "content": "/zips/ch10/rq10-dashboard-memo.zip"
-    },
     "rq10-dashboard-props": {
       "build": "/builds/ch10/rq10-dashboard-props/",
       "content": "/zips/ch10/rq10-dashboard-props.zip"
@@ -357,10 +317,6 @@
     "rq10-reducer-load": {
       "build": "/builds/ch10/rq10-reducer-load/",
       "content": "/zips/ch10/rq10-reducer-load.zip"
-    },
-    "rq10-reduction-load": {
-      "build": "/builds/ch10/rq10-reduction-load/",
-      "content": "/zips/ch10/rq10-reduction-load.zip"
     }
   },
   "ch11": {
@@ -431,136 +387,6 @@
     "rq13-steps": {
       "build": "/builds/ch13/rq13-steps/",
       "content": "/zips/ch13/rq13-steps.zip"
-    }
-  },
-  "ch14": {
-    "rq14-employee": {
-      "build": "/builds/ch14/rq14-employee/",
-      "content": "/zips/ch14/rq14-employee.zip"
-    },
-    "rq14-paginable": {
-      "build": "/builds/ch14/rq14-paginable/",
-      "content": "/zips/ch14/rq14-paginable.zip"
-    },
-    "rq14-prettier": {
-      "build": "/builds/ch14/rq14-prettier/",
-      "content": "/zips/ch14/rq14-prettier.zip"
-    }
-  },
-  "ch15": {
-    "rq15-classnames": {
-      "build": "/builds/ch15/rq15-classnames/",
-      "content": "/zips/ch15/rq15-classnames.zip"
-    },
-    "rq15-cssmodules": {
-      "build": "/builds/ch15/rq15-cssmodules/",
-      "content": "/zips/ch15/rq15-cssmodules.zip"
-    },
-    "rq15-inline": {
-      "build": "/builds/ch15/rq15-inline/",
-      "content": "/zips/ch15/rq15-inline.zip"
-    },
-    "rq15-styled": {
-      "build": "/builds/ch15/rq15-styled/",
-      "content": "/zips/ch15/rq15-styled.zip"
-    },
-    "rq15-tailwind": {
-      "build": "/builds/ch15/rq15-tailwind/",
-      "content": "/zips/ch15/rq15-tailwind.zip"
-    }
-  },
-  "ch16": {
-    "rq16-context": {
-      "build": "/builds/ch16/rq16-context/",
-      "content": "/zips/ch16/rq16-context.zip"
-    },
-    "rq16-reducer": {
-      "build": "/builds/ch16/rq16-reducer/",
-      "content": "/zips/ch16/rq16-reducer.zip"
-    },
-    "rq16-redux": {
-      "build": "/builds/ch16/rq16-redux/",
-      "content": "/zips/ch16/rq16-redux.zip"
-    },
-    "rq16-xstate": {
-      "build": "/builds/ch16/rq16-xstate/",
-      "content": "/zips/ch16/rq16-xstate.zip"
-    },
-    "rq16-zustand": {
-      "build": "/builds/ch16/rq16-zustand/",
-      "content": "/zips/ch16/rq16-zustand.zip"
-    }
-  },
-  "ch17": {
-    "rq17-better-reactive": {
-      "build": "/builds/ch17/rq17-better-reactive/",
-      "content": "/zips/ch17/rq17-better-reactive.zip"
-    },
-    "rq17-graphql": {
-      "build": "/builds/ch17/rq17-graphql/",
-      "content": "/zips/ch17/rq17-graphql.zip"
-    },
-    "rq17-reactive": {
-      "build": "/builds/ch17/rq17-reactive/",
-      "content": "/zips/ch17/rq17-reactive.zip"
-    },
-    "rq17-things": {
-      "build": "/builds/ch17/rq17-things/",
-      "content": "/zips/ch17/rq17-things.zip"
-    }
-  },
-  "ch18": {
-    "rq18-axios": {
-      "build": "/builds/ch18/rq18-axios/",
-      "content": "/zips/ch18/rq18-axios.zip"
-    },
-    "rq18-click-counter": {
-      "build": "/builds/ch18/rq18-click-counter/",
-      "content": "/zips/ch18/rq18-click-counter.zip"
-    },
-    "rq18-dark-mode": {
-      "build": "/builds/ch18/rq18-dark-mode/",
-      "content": "/zips/ch18/rq18-dark-mode.zip"
-    },
-    "rq18-geo": {
-      "build": "/builds/ch18/rq18-geo/",
-      "content": "/zips/ch18/rq18-geo.zip"
-    },
-    "rq18-keypress": {
-      "build": "/builds/ch18/rq18-keypress/",
-      "content": "/zips/ch18/rq18-keypress.zip"
-    },
-    "rq18-menuitem": {
-      "build": "/builds/ch18/rq18-menuitem/",
-      "content": "/zips/ch18/rq18-menuitem.zip"
-    },
-    "rq18-menuitem-icon": {
-      "build": "/builds/ch18/rq18-menuitem-icon/",
-      "content": "/zips/ch18/rq18-menuitem-icon.zip"
-    },
-    "rq18-timer": {
-      "build": "/builds/ch18/rq18-timer/",
-      "content": "/zips/ch18/rq18-timer.zip"
-    },
-    "rq18-todo": {
-      "build": "/builds/ch18/rq18-todo/",
-      "content": "/zips/ch18/rq18-todo.zip"
-    }
-  },
-  "ch21": {
-    "rq21-base": {
-      "build": "/builds/ch21/rq21-base/",
-      "content": "/zips/ch21/rq21-base.zip"
-    },
-    "rq21-complete": {
-      "build": "/builds/ch21/rq21-complete/",
-      "content": "/zips/ch21/rq21-complete.zip"
-    }
-  },
-  "ch22": {
-    "rq22-wordle": {
-      "build": "/builds/ch22/rq22-wordle/",
-      "content": "/zips/ch22/rq22-wordle.zip"
     }
   }
 }
