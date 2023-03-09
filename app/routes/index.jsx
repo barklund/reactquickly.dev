@@ -19,7 +19,7 @@ export default function Index() {
               <em>React Quickly, Second Edition</em> is a brand new book on
               modern React web development and it is available for pre-order and
               early access now. The new edition has been completely rewritten
-              and fully updated to the React ecosystem as of 2022.
+              and fully updated to React as of 2023.
             </p>
             <p className="mt-16 mx-4 md:md-0">
               <a
@@ -35,7 +35,17 @@ export default function Index() {
           </div>
         </div>
       </header>
-      <main className="pt-12">
+      <main>
+        <section className="bg-gray-100">
+          <blockquote className="container mx-auto p-16 px-6 w-full md:w-1/2 text-2xl">
+            <em>
+              This book is a comprehensive introduction to React, including
+              detailed explanations of the concepts and techniques needed to
+              build modern applications.
+            </em>
+            <br />– Bernard Fuentes
+          </blockquote>
+        </section>
         <section className="container mx-auto p-10 px-6 w-full md:w-1/2">
           <div className="flex items-center flex-col md:flex-row-reverse mb-20 gap-4 md:gap-12">
             <div className="w-full md:w-1/2">
@@ -51,10 +61,9 @@ export default function Index() {
               </h4>
               <p className="text-gray-600 mb-8">
                 <em>React Quickly, Second Edition</em> covers everything you
-                need to know about in modern React development on over 500
-                pages. The content ranges from component architecture over React
-                hooks to the rich ecosystem of related technologies necessary to
-                create complex web applications.
+                need to know about in basic React development on over 350 pages.
+                The content ranges from component architecture over React hooks
+                to form and event handling.
               </p>
             </div>
           </div>
@@ -72,12 +81,12 @@ export default function Index() {
                 From beginner to advanced
               </h4>
               <p className="text-gray-600 mb-8">
-                The book contains topics relevant for all developers, where
-                you've been using React for years or have never touched it all.
-                The clear introduction to every chapter will guide you as to
-                whether the chapter is relevant for you or if you can move on.
-                But you might be surprised, there are basic things about React,
-                that even long time developers aren't aware of.
+                While the book is mostly targeted at new React developers, its
+                contents are also relevant even if you've been using React for
+                years. The clear introduction to every chapter will guide you as
+                to whether the chapter is relevant for you or if you can move
+                on. But you might be surprised, there are basic things about
+                React, that even long time developers aren't aware of.
               </p>
             </div>
           </div>
@@ -92,13 +101,34 @@ export default function Index() {
             </div>
             <div className="w-full md:w-1/2">
               <h4 className="text-3xl md:text-4xl text-gray-800 font-bold mb-3">
-                100+ useful examples
+                80+ useful examples
               </h4>
               <p className="text-gray-600 mb-8">
-                The book has 100+ useful examples of small widgets and
+                The book has 80+ useful examples of small widgets and
                 structures, that you can copy-paste into your applications. All
                 the examples have a real-world purpose and solves an actual
                 problem that you can relate to.
+              </p>
+            </div>
+          </div>
+
+          <div className="flex items-center flex-col md:flex-row mb-20 gap-4 md:gap-12">
+            <div className="w-full md:w-1/2">
+              <img
+                src="/images/blueprint-icon.png"
+                className="w-1/3 md:w-1/2 mx-auto"
+                alt="Projects"
+              />
+            </div>
+            <div className="w-full md:w-1/2">
+              <h4 className="text-3xl md:text-4xl text-gray-800 font-bold mb-3">
+                3 immersive projects
+              </h4>
+              <p className="text-gray-600 mb-8">
+                At the end of the book, you can test your new-found React skills
+                in 3 projects of ever-increasing complexity. Each project
+                features multiple steps with tips and tricks – and full
+                solutions available online if you're ever stuck.
               </p>
             </div>
           </div>
@@ -112,34 +142,66 @@ export default function Index() {
               <div className="w-full md:w-1/3 px-2 mb-4">
                 <div className="bg-white rounded shadow py-2">
                   <p className="text-gray-800 text-base px-6 mb-5">
-                    For sure, it'll be a great book to learn how{" "}
-                    <em>"React thinks"</em> and some modern web dev tips.
+                    Loved the book! The code projects used were engaging and
+                    small enough to be understandable and just large enough to
+                    get the point across. Loved the projects and how they built
+                    on each other and provided some challenge.
                   </p>
                   <p className="text-gray-500 text-xs md:text-sm px-6">
-                    Beto Muniz
+                    Michelle Williamson
                   </p>
                 </div>
               </div>
               <div className="w-full md:w-1/3 px-2 mb-4">
                 <div className="bg-white rounded shadow py-2">
                   <p className="text-gray-800 text-base px-6 mb-5">
-                    Yes. Yes. A thousand times yes.
+                    This is the best React book I've read. The writing style
+                    kept me engaged and made learning more fun. If you only want
+                    one book on React this is the one to have.
                   </p>
                   <p className="text-gray-500 text-xs md:text-sm px-6">
-                    Mike Crantea
+                    Brent Boylan
                   </p>
                 </div>
               </div>
               <div className="w-full md:w-1/3 px-2 mb-4">
                 <div className="bg-white rounded shadow py-2">
                   <p className="text-gray-800 text-base px-6 mb-5">
-                    I'm learnding.
+                    I have a whole library of computer text books collected over
+                    the last 30 years. This is one of the most readable and
+                    comprehensive with so many examples and the best supporting
+                    website I've come across. Well done.
                   </p>
                   <p className="text-gray-500 text-xs md:text-sm px-6">
-                    Nikki Strømsnes
+                    Brendan O'Hara
                   </p>
                 </div>
               </div>
+            </div>
+          </div>
+        </section>
+        <section>
+          <div className="container mx-auto px-6 py-20 flex gap-8 items-center">
+            <img src="/images/two-books.jpg" width="500" alt="Two books" />
+            <div>
+              <h2 className="mb-6 text-4xl font-bold">
+                The companion book: React like a Pro!
+              </h2>
+              <h3 className="my-4 text-2xl">
+                Where <em>React Quickly</em> takes you from beginner to
+                knowledgable, <em>React like a Pro</em> takes your from there
+                all the way to a fully productive and professional React
+                developer ready to join any development team out there.
+              </h3>
+              <p className="mt-16">
+                <a
+                  href="//reactlikea.pro"
+                  style={{ backgroundColor: "#667eea" }}
+                  className="text-white font-bold rounded-full mt-6 py-4 px-8 shadow-lg uppercase tracking-wider"
+                >
+                  Read more about <em>React like a Pro</em>
+                </a>
+              </p>
             </div>
           </div>
         </section>
@@ -245,25 +307,7 @@ export default function Index() {
                     href="https://www.flaticon.com/free-icons/project"
                     rel="nofollow"
                   >
-                    dDara - Flaticon
-                  </a>
-                </li>
-                <li className="mt-2">
-                  <a
-                    className="hover:underline text-gray-600 hover:text-orange-500"
-                    href="https://www.flaticon.com/free-icons/project-plan"
-                    rel="nofollow"
-                  >
-                    vectorsmarket15 - Flaticon
-                  </a>
-                </li>
-                <li className="mt-2">
-                  <a
-                    className="hover:underline text-gray-600 hover:text-orange-500"
-                    href="https://www.flaticon.com/free-icons/project"
-                    rel="nofollow"
-                  >
-                    Eucalyp - Flaticon
+                    dDara, vectorsmarket15, Eucalyp, Smashicons - Flaticon
                   </a>
                 </li>
                 <li className="mt-2">
