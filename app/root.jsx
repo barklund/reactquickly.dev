@@ -14,7 +14,10 @@ export function links() {
 }
 
 export function meta() {
-  return { title: "React Quickly, Second Edition out now for purchase" };
+  return {
+    title:
+      "Master React Fundamentals With The Latest Concepts and Real-World Examples",
+  };
 }
 
 export default function App() {
@@ -25,7 +28,7 @@ export default function App() {
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <meta
           name="description"
-          content="React Quickly, Second Edition is a brand new book on modern React web development and it is available for pre-order and early access now. The new edition has been completely rewritten and fully updated to the React ecosystem as of 2022."
+          content="React Quickly, Second Edition is a brand new book that will help you master the fundamentals of React with the latest techniques. Learn quickly and easily with clear explanations, numerous examples, and real-world projects you can use for reference. Pre-order your copy today!"
         />
         <link
           rel="apple-touch-icon"
