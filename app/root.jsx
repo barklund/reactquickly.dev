@@ -54,7 +54,7 @@ export default function App() {
         <Meta />
         <Links />
       </head>
-      <body className="h-screen">
+      <body className="h-screen w-full">
         <Outlet />
         <ScrollRestoration />
         <Scripts />
