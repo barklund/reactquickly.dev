@@ -335,7 +335,7 @@ export default function Index() {
                 rounded
                 className="uppercase"
               >
-                Read more about <em>Job‑Ready React</em>
+                Read more about <em>React in Depth</em>
               </CTAButton>
             </div>
           </div>
