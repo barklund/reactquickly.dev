@@ -331,7 +331,7 @@ export default function Index() {
                 <em>React in Depth</em>!
               </h3>
               <CTAButton
-                href="//reactindepth.com"
+                href="//reactindepth.dev"
                 rounded
                 className="uppercase"
               >
